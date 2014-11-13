@@ -1,0 +1,16 @@
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\bin\Debug\Invert.txt
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\bin\Debug\BinaryXor.txt
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\bin\Debug\ProgettoSVM.XML
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\bin\Debug\ProgettoSVM.exe
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\bin\Debug\ProgettoSVM.pdb
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\obj\x86\Debug\ProgettoSVM.fsprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\obj\x86\Debug\ProgettoSVM.exe
+C:\Users\Ale\Desktop\Progetto Programmazione\ProgettoSVM\ProgettoSVM\obj\x86\Debug\ProgettoSVM.pdb
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\bin\Debug\Invert.txt
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\bin\Debug\BinaryXor.txt
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\bin\Debug\ProgettoSVM.XML
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\bin\Debug\ProgettoSVM.exe
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\bin\Debug\ProgettoSVM.pdb
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\obj\x86\Debug\ProgettoSVM.fsprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\obj\x86\Debug\ProgettoSVM.exe
+C:\Users\Ale\Desktop\Progetto Programmazione\prog alessio\ProgettoSVM\obj\x86\Debug\ProgettoSVM.pdb

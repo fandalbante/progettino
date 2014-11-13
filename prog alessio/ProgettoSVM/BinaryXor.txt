@@ -1,0 +1,67 @@
+﻿# first line
+mov [0] 0
+mov [1] 1
+mov [2] 0
+mov [3] 0
+mov [4] 1
+
+# second line
+mov [10] 1
+mov [11] 1
+mov [12] 0
+mov [13] 0
+mov [14] 0
+
+#xor on the first element
+mov reg1 [4]
+mov reg2 [14]
+not reg3 reg1
+not reg4 reg2
+and reg1 reg4
+and reg2 reg3
+or reg1 reg2
+mov [24] reg1
+
+#xor on the second element
+mov reg1 [3]
+mov reg2 [13]
+not reg3 reg1
+not reg4 reg2
+and reg1 reg4
+and reg2 reg3
+or reg1 reg2
+mov [23] reg1
+
+#xor on the third element
+mov reg1 [2]
+mov reg2 [12]
+not reg3 reg1
+not reg4 reg2
+and reg1 reg4
+and reg2 reg3
+or reg1 reg2
+mov [22] reg1
+
+#xor on the fourth element
+mov reg1 [1]
+mov reg2 [11]
+not reg3 reg1
+not reg4 reg2
+and reg1 reg4
+and reg2 reg3
+or reg1 reg2
+mov [21] reg1
+
+#xor on the fifth element
+mov reg1 [0]
+mov reg2 [10]
+not reg3 reg1
+not reg4 reg2
+and reg1 reg4
+and reg2 reg3
+or reg1 reg2
+mov [20] reg1
+
+#end of program
+end
+
