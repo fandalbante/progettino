@@ -1,4 +1,5 @@
-﻿open SVMLibrary
+﻿//componenti del gruppo alessio marafante valentina mohn riccardo scantamburlo
+open SVMLibrary
 
 let rec compattamento (lista : char list) : string = match lista with//funzione interna a f# ler la conversione in stringa di una lista di caratteri
                                                      | [] -> ""
